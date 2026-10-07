@@ -1,0 +1,3 @@
+tkintermapview
+pymobiledevice3
+customtkinter
