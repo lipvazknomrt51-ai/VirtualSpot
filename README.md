@@ -48,26 +48,6 @@ python app.py
 
 Run as Administrator when required for iOS 17+.
 
-## Build
-
-```
-build_exe.bat
-```
-
-This creates:
-
-```
-dist\VirtualSpot\VirtualSpot.exe
-```
-
-To build the installer:
-
-```
-build_installer.bat
-```
-
-The build uses `VirtualSpot.spec` and PyInstaller.
-
 ## Tests
 
 ```
